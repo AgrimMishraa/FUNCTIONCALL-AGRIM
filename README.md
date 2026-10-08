@@ -5,7 +5,7 @@
 ### 🚀 Full Stack MERN Developer | Data & AI & ML Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-agrimishra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agrimishra/)
-[![Gmail](https://img.shields.io/badge/Gmail-sameerartimishra1994@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sameerartimishra1994@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-sameerartimishra1994@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agrim.mishraa10@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=FUNCTIONCALL-AGRIM&color=0A66C2&style=for-the-badge)
 
