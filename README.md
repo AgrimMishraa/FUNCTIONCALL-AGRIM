@@ -17,7 +17,7 @@
 
 ```javascript
 const agrim = {
-  name: "Agrim Mishra",
+  name: "Agrim Mishraa",
   education: "BTech'26 — Data Science & AI @ SRMU Lucknow",
   location: "Lucknow, Uttar Pradesh, India 🇮🇳",
   internships: ["Web Dev Intern @ Plasmid", "Data Science Intern @ Plasmid"],
